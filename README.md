@@ -1,6 +1,8 @@
 K3s - Lightweight Kubernetes
 ===============================================
 
+[![Open in Coder](https://coder.7erver.com/open-in-coder.svg)](https://coder.7erver.com/templates/kubernetes/workspace?)
+
 Lightweight Kubernetes.  Production ready, easy to install, half the memory, all in a binary less than 100 MB.
 
 Great for:
